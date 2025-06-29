@@ -6,7 +6,7 @@ Welcome to the **Bookstore** web application — a responsive and interactive pl
 
 ## 🔗 Live Preview
 
-🌐 [Click here to view the live application](https://your-live-preview-url.com)
+🌐 [Click here to view the live application](https://bookstore-trn-m-6.netlify.app/)
 
 ---
 
