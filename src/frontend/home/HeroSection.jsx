@@ -1,8 +1,12 @@
 import React from "react";
+import heroImage from "../../assets/images/hero.png";
 
 const HeroSection = () => {
   return (
-    <section className="flex min-h-[600px] flex-col justify-center bg-[url(assets/hero.png)] bg-center">
+    <section
+      className="flex min-h-[600px] flex-col justify-center bg-cover bg-center bg-no-repeat"
+      style={{ backgroundImage: `url(${heroImage})` }}
+    >
       <div className="mx-auto max-w-4xl text-center text-white">
         <h2 className="text-4xl font-bold text-yellow-300 capitalize">
           The Book Lover's Dreamland Awaits!
